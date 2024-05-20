@@ -1,4 +1,4 @@
---https://preppindata.blogspot.com/2023/02/2023-week-6-dsb-customer-ratings.html
+-- Full challenge can be found: https://preppindata.blogspot.com/2023/02/2023-week-6-dsb-customer-ratings.html
 
 WITH PRE_PIVOT AS (
 SELECT 
